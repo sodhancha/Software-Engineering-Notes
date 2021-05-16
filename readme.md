@@ -109,7 +109,7 @@ Both question the bartender's competence.*
 
 	9.4 [Design Considerations](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658124(v=pandp.10)?redirectedfrom=MSDN#DesignConsiderations)
 
-	9.5 
+	9.5 --
 
 
 https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_3_des.html
