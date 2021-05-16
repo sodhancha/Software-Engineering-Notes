@@ -1,4 +1,6 @@
-#These are notes from https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_2_req.html
+#These are notes from (Professional Softare Development)[https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_2_req.html]
+=============================
+
 #Professional Software Development
 
 *“if you don’t have time to do it right once, how will you find the time to do it twice?”*
