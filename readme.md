@@ -131,6 +131,9 @@ Both question the bartender's competence.*
 
 	8.6 Mistake proof your software
 
+Ended this session in https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_3_des.html
+
 # References
   - [Professional Software Development Online book](https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_2_req.html)
+  - [Domain Driven Design][https://stackoverflow.com/questions/1222392/what-is-domain-driven-design-ddd/1222488#1222488]
 
