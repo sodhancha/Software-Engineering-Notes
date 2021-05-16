@@ -2,7 +2,7 @@
 =============================
 
 # Table of Contents
-1. [Define Problem Statement]()
+1. [Define Problem Statement](#problem-statement)
 2. Start with Why ?
 3. Unrealistic Goals:
 4. WTF are Key Stakeholders?
@@ -13,6 +13,7 @@
 
 *“if you don’t have time to do it right once, how will you find the time to do it twice?”*
 
+# Problem Statement
 1. Define Problem Statement
 	- Be as specific as possible.
 
