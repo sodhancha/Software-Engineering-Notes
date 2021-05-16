@@ -1,4 +1,4 @@
-[These are notes from](https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_2_req.html)
+Professional Software Development Notes
 =============================
 
 # Table of Contents
@@ -10,6 +10,8 @@
 6. On Mockups and Wireframes and UIs
 7. [On requirements](#requirements)
 8. [Start with the Design Chapter](#design)
+
+[References](#references)
 
 *“if you don’t have time to do it right once, how will you find the time to do it twice?”*
 
@@ -130,4 +132,6 @@ Both question the bartender's competence.*
 
 https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_3_des.html
 
+# References
+  - [Professional Software Development Online book](https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_2_req.html)
 
