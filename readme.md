@@ -3,9 +3,9 @@
 
 # Table of Contents
 1. [Define Problem Statement](#problem-statement)
-2. Start with Why ?
-3. Unrealistic Goals:
-4. WTF are Key Stakeholders?
+2. [Start with Why ?](#why)
+3. [Unrealistic Goals](#goals)
+4. [WTF are Key Stakeholders?](#stakeholders)
 5. How to identify a Key Stakeholder ?
 6. On Mockups and Wireframes and UIs
 7. [On requirements](#requirements)
@@ -25,6 +25,7 @@
 
 	- Remove all instances of the words “we” or “I”
 
+# Why
 2. Start with Why ?
 	*“Why did the robot stop?”*
 		-	The circuit has overloaded, causing a fuse to blow.
@@ -41,9 +42,11 @@
 	*“Why is the intake clogged with metal shavings?”*
 		-	Because there is no filter on the pump.
 
+# Goals
 3. Unrealistic Goals:
 	- It’s not always easy, but unrealistic goals are a huge cost to business, and obviously the earlier they are discovered the better. 
 
+# Stakeholders
 4. WTF are Key Stakeholders?
 	*The folks that care about the project and have a vested-interest or role, which affect or are affected by it*
 	For Example:
