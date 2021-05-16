@@ -8,8 +8,8 @@
 4. WTF are Key Stakeholders?
 5. How to identify a Key Stakeholder ?
 6. On Mockups and Wireframes and UIs
-7. On requirements:
-8. [Start with the Design Chapter](#design-chapter)
+7. [On requirements](#requirements)
+8. [Start with the Design Chapter](#design)
 
 *“if you don’t have time to do it right once, how will you find the time to do it twice?”*
 
@@ -72,6 +72,7 @@ Both question the bartender's competence.*
 	-	Leave out features that are not implemented, such as menus buttons, sections, etc. 
 		As complete features are added in, progress will be perceived more accurately.
 
+# Requirements
 7. On requirements:
 	Many of the qualities of successful requirements documents are listed below:
 	7.1 Clarity:
@@ -109,7 +110,7 @@ Both question the bartender's competence.*
 	7.12 Templates
 		 - Below are templates and guidelines for requirements documentation, which may be helpful to get started.
 
-# Design Chapter
+# Design
 8. Start with the Design Chapter
 	
 	8.1 design phase documents state how you plan to build it.
