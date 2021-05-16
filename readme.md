@@ -82,7 +82,7 @@ Both question the bartender's competence.*
 7. On requirements:
 	Many of the qualities of successful requirements documents are listed below:
 	7.1 Clarity:
-		- Writing and critical thinking skills, FTW !
+		- Writing and critical thinking skills, FTW!
 
 	7.2 Complete:
 		- Must address relevant cases, features, and users.
@@ -91,10 +91,10 @@ Both question the bartender's competence.*
 		- Partially at odds with completeness, this quality facilitates understanding without drowning the reader in unnecessary detail. Don’t over-document (unless paid by the page of course).
 
 	7.4 Consistent:
-		- Requirements must not contradict each other. They must be compatible logically, strategically, and grammatically. 
+		- Requirements must not contradict each other. They must be compatible logically, strategically, and grammatically.
 
 	7.5 Achievable:
-		- Unless you’ve a breakthrough design for a flux capacitor , your time-travel project will fail.
+		- Unless you’ve a breakthrough design for a flux capacitor, your time-travel project will fail.
 
 	7.6 Unambiguous:
 		- If two people may interpret the specs differently, they will. This quality is especially important on platform or protocol work, on top of which others will build.
@@ -117,9 +117,9 @@ Both question the bartender's competence.*
 		 - Below are templates and guidelines for requirements documentation, which may be helpful to get started.
 
 # Design
-8. Start with the Design Chapter
+8. [Start with the Design Chapter and a complete read of it](https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_3_des.html)
 	
-	8.1 design phase documents state how you plan to build it.
+	8.1 Design phase documents state how you plan to build it.
 	
 	8.2 Design is a *“form of problem-solving.”*
 
@@ -127,10 +127,9 @@ Both question the bartender's competence.*
 
 	8.4 [Design Considerations](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658124(v=pandp.10)?redirectedfrom=MSDN#DesignConsiderations)
 
-	8.5 --
+	8.5 Thoroughly read through the [Design Chapter](https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_3_des.html)
 
-
-https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_3_des.html
+	8.6 Mistake proof your software
 
 # References
   - [Professional Software Development Online book](https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_2_req.html)
