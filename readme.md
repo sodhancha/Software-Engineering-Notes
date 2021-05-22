@@ -133,57 +133,57 @@ Both question the bartender's competence.*
 
 ## Consideration required during Design
 
-	-	Administration
+	- [ ] Administration
 
-	-	Coding conventions
+	- [ ] Coding conventions
 
-	-	Communication protocols
+	- [ ] Communication protocols
 
-	-	Compatibility
+	- [ ] Compatibility
 
-	-	Concurrency
+	- [ ] Concurrency
 
-	-	Data persistence
+	- [ ] Data persistence
 
-	-	Design patterns
+	- [ ] Design patterns
 
-	-	Developer productivity
+	- [ ] Developer productivity
 
-	-	Extensibility
+	- [ ] Extensibility
 
-	-	Fault tolerance
+	- [ ] Fault tolerance
 
-	-	Industry norms (client)
+	- [ ] Industry norms (client)
 
-	-	Interaction, automated or user-driven
+	- [ ] Interaction, automated or user-driven
 
-	-	Maintainability
+	- [ ] Maintainability
 
-	-	Localization, internationalization
+	- [ ] Localization, internationalization
 
-	-	Performance
+	- [ ] Performance
 
-	-	Portability
+	- [ ] Portability
 
-	-	Project requirements
+	- [ ] Project requirements
 
-	-	Quality
+	- [ ] Quality
 
-	-	Reliability
+	- [ ] Reliability
 
-	-	Responsiveness, timing or realtime constraints
+	- [ ] Responsiveness, timing or realtime constraints
 
-	-	Reusability
+	- [ ] Reusability
 
-	-	Scalability
+	- [ ] Scalability
 
-	-	Security
+	- [ ] Security
 
-	-	Testability
+	- [ ] Testability
 
-	-	Use, corner, and edge cases
+	- [ ] Use, corner, and edge cases
 
-	-	Usability, experience
+	- [ ] Usability, experience
 
 Ended this session in https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_3_des.html
 
