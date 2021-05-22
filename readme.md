@@ -162,7 +162,7 @@ Both question the bartender's competence.*
 
 ### Design Guidelines
 
-	<input type="checkbox" /> An oft-cited work in software design is this list of guidelines from A. M. Davis:
+<input type="checkbox" /> An oft-cited work in software design is this list of guidelines from A. M. Davis:
 
 	Design elements should be traceable to requirements.
 
