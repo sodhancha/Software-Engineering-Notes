@@ -132,58 +132,69 @@ Both question the bartender's competence.*
 	8.6 Mistake proof your software
 
 ## Consideration required during Design
+### Solar System Exploration, 1950s – 1960s
 
-	- [] Administration
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
-	- [] Coding conventions
+	- [ ] Administration
 
-	- [] Communication protocols
+	- [ ] Coding conventions
 
-	- [] Compatibility
+	- [ ] Communication protocols
 
-	- [] Concurrency
+	- [ ] Compatibility
 
-	- [] Data persistence
+	- [ ] Concurrency
 
-	- [] Design patterns
+	- [ ] Data persistence
 
-	- [] Developer productivity
+	- [ ] Design patterns
 
-	- [] Extensibility
+	- [ ] Developer productivity
 
-	- [] Fault tolerance
+	- [ ] Extensibility
 
-	- [] Industry norms (client)
+	- [ ] Fault tolerance
 
-	- [] Interaction, automated or user-driven
+	- [ ] Industry norms (client)
 
-	- [] Maintainability
+	- [ ] Interaction, automated or user-driven
 
-	- [] Localization, internationalization
+	- [ ] Maintainability
 
-	- [] Performance
+	- [ ] Localization, internationalization
 
-	- [] Portability
+	- [ ] Performance
 
-	- [] Project requirements
+	- [ ] Portability
 
-	- [] Quality
+	- [ ] Project requirements
 
-	- [] Reliability
+	- [ ] Quality
 
-	- [] Responsiveness, timing or realtime constraints
+	- [ ] Reliability
 
-	- [] Reusability
+	- [ ] Responsiveness, timing or realtime constraints
 
-	- [] Scalability
+	- [ ] Reusability
 
-	- [] Security
+	- [ ] Scalability
 
-	- [] Testability
+	- [ ] Security
 
-	- [] Use, corner, and edge cases
+	- [ ] Testability
 
-	- [] Usability, experience
+	- [ ] Use, corner, and edge cases
+
+	- [ ] Usability, experience
 
 Ended this session in https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_3_des.html
 
