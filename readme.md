@@ -131,58 +131,43 @@ Both question the bartender's competence.*
 
 	8.6 Mistake proof your software
 
-## Consideration required during Design
+### Consideration required during Design
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
 	- [ ] Administration
-
 	- [ ] Coding conventions
-
 	- [ ] Communication protocols
-
 	- [ ] Compatibility
-
 	- [ ] Concurrency
-
 	- [ ] Data persistence
-
 	- [ ] Design patterns
-
 	- [ ] Developer productivity
-
 	- [ ] Extensibility
-
 	- [ ] Fault tolerance
-
 	- [ ] Industry norms (client)
-
 	- [ ] Interaction, automated or user-driven
-
 	- [ ] Maintainability
-
 	- [ ] Localization, internationalization
-
 	- [ ] Performance
-
 	- [ ] Portability
-
 	- [ ] Project requirements
-
 	- [ ] Quality
-
 	- [ ] Reliability
-
 	- [ ] Responsiveness, timing or realtime constraints
-
 	- [ ] Reusability
-
 	- [ ] Scalability
-
 	- [ ] Security
-
 	- [ ] Testability
-
 	- [ ] Use, corner, and edge cases
-
 	- [ ] Usability, experience
 
 Ended this session in https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_3_des.html
