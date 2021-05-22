@@ -133,6 +133,8 @@ Both question the bartender's competence.*
 
 ### Consideration required during Design
 
+- [ ] Mercury
+
 	- [ ] Administration
 	- [ ] Coding conventions
 	- [ ] Communication protocols
