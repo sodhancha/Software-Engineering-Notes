@@ -162,27 +162,17 @@ Both question the bartender's competence.*
 
 ### Design Guidelines
 
-<input type="checkbox" /> An oft-cited work in software design is this list of guidelines from A. M. Davis:
-
-	Design elements should be traceable to requirements.
-
-	Consider alternative approaches, don’t suffer “tunnel vision.”
-
-	Don’t reinvent the wheel.
-
-	Minimize the “intellectual distance”, between the software and the real-world problem.
-
-	Uniformity and integration
-
-	Structure to accommodate change.
-
-	Graceful degradation and error handling.
-
-	Design is not coding & vice versa.
-
-	Quality is integral to design, not added after the fact.
-
-	Review design of major conceptual elements, before minutiae.
+- [ ] An oft-cited work in software design is this list of guidelines from A. M. Davis:
+- [ ] Design elements should be traceable to requirements.
+- [ ] Consider alternative approaches, don’t suffer “tunnel vision.”
+- [ ] Don’t reinvent the wheel.
+- [ ] Minimize the “intellectual distance”, between the software and the real-world problem.
+- [ ] Uniformity and integration
+- [ ] Structure to accommodate change.
+- [ ] Graceful degradation and error handling.
+- [ ] Design is not coding & vice versa.
+- [ ] Quality is integral to design, not added after the fact.
+- [ ] Review design of major conceptual elements, before minutiae.
 
 Ended this session in https://mixmastamyk.bitbucket.io/pro_soft_dev/sdlc_3_des.html
 
