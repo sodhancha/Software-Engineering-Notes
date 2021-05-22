@@ -133,16 +133,6 @@ Both question the bartender's competence.*
 
 ### Consideration required during Design
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
-
 	- [ ] Administration
 	- [ ] Coding conventions
 	- [ ] Communication protocols
